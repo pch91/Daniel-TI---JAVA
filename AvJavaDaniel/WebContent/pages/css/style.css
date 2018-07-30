@@ -1,0 +1,71 @@
+.titulo{
+	widgt: 30px;
+}
+.textarea{
+    margin: 0px;
+    width: 100%;
+    height: 58px;
+}
+.input{
+    width: 100%;
+}
+.input2{
+    width: 55%;
+    width: calc(100% - 200px);
+}
+
+.salvar{
+	margin-top: 5px;
+    width: 100%;
+    background: #40a040a3;
+    height: 26px;
+    border-color: #a0d6a0a3;
+}
+.lfiltro{
+	margin-right: 10px;
+}
+.impfiltro{
+	width: calc(((100vw - 300px) /5)*2);
+	margin-right: 10px;
+}
+.impfiltrolast{
+    width: calc(((100vw - 300px) /5)*3);
+}
+.buscatitle{
+	margin: 0% auto;
+    width: 50%;
+    top: 0px;
+}
+.filds1{
+    display: inline-block;
+    margin-right: 2%;
+    position: absolute;
+    left: 25px;
+    width: 45%;
+}
+.filds2{
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    width: 45%;
+    max-width: 573px;
+}
+.salvarbtn{
+    position: absolute;
+    top: 215px;
+    left: 27px;
+    width: 45%;
+}
+.btnfiltrar{
+	margin-top: 7px;
+	background: #697ace;
+    border-color: #8391f3;
+    color: white;
+    width: 90px;
+}
+.filtrotitle{
+	border: 1px solid #e4e4e4;
+    margin: 9px 4px 5px 4px;
+    padding: 20px 10px;
+    background: white;
+}
